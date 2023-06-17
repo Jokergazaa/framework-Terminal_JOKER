@@ -10,6 +10,8 @@
 ![image](https://github.com/Jokergazaa/framework-Terminal_JOKER/assets/107787017/15986f12-e366-4a71-b24f-ac73c5879053)
 
 
+![image](https://github.com/Jokergazaa/framework-Terminal_JOKER/assets/107787017/3141d533-bf7e-4b7e-848f-78f13b3659d3)
+
 
 # معلومات
 
