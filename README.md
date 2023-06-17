@@ -21,6 +21,9 @@
 يوصى بشدة بتثبيت متطلبات Terminal_JOKER Framework. تحتاج بعض الوحدات النمطية إلى أدوات من جهات خارجية حتى لا تحصل على أخطاء داخل الوحدات.
 
 
+![image](https://github.com/Jokergazaa/framework-Terminal_JOKER/assets/107787017/b6197919-f507-4023-905d-11be628b91ae)
+
+
 # لمزيد من المساعدة ، اقرأ صفحة المساعدة داخل Terminal_JOKER Framework عن طريق الكتابة help
 
 
